@@ -1,1 +1,1 @@
-# Record-Clustering-
+Problem Statement:  The objective is to implement the clustering algorithm for the input text records and place the text records in 7 different clusters. Input data consists of 8580 text records in sparse format with no labels. The clusters are to be labeled in ascending order based on their size, i.e., the biggest cluster should be labeled as 1 and the smallest cluster should be labeled as 7.
